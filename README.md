@@ -10,4 +10,4 @@ You can view my work here - https://www.figma.com/community/file/134901270950194
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-please check my portfolio - https://www.figma.com/file/UPEXsDS3f6m7emwFlXMnp8/portfolio?type=design&node-id=0%3A1&mode=design&t=pzANoFFg6A1WRUMU-1
+please check my portfolio - https://www.figma.com/proto/UPEXsDS3f6m7emwFlXMnp8/portfolio?page-id=0%3A1&type=design&node-id=2-2&viewport=598%2C270%2C0.46&t=1elJ1d4RKib4ASJm-1&scaling=min-zoom&starting-point-node-id=2%3A2
